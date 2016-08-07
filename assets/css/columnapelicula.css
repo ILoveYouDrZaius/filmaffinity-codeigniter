@@ -1,0 +1,26 @@
+#mcardtable th {text-align: right; font-weight:bold; }
+#mcardtable th, #mcardtable td {padding: 3px; vertical-align:baseline; font-size:8pt;}
+#mcardtable img {vertical-align: text-top;}
+
+.z-movie{ position: relative;}
+
+.z-movie #right-column{ right: 0; position: absolute; margin-left: 640px;}
+.z-movie #right-column #movie-main-image-container{ padding: 0px; margin: 0px; display: inline-block; width: 180px; text-align: center;}
+.z-movie #right-column #movie-main-image-container img{ border: 1px solid #000;}
+
+.z-movie #right-column .share-links-movie{ margin-top: 5px; padding-top: 5px; }
+.z-movie #right-column .share-links-movie .item{ text-align: center; margin-top: 5px; margin-left: 40px; float: left;}
+
+
+.z-movie #right-column #rat-container{text-align: center; margin: 10px; background: #F0F0F0; border: 1px solid #CDDCEB;}
+.z-movie #right-column #rat-container #rat-avg-container{ margin: 0px 12px; padding-bottom: 10px;}
+.z-movie #right-column #rat-container #movie-rat-avg{  float: center; font-size: 205%; color: #fff; padding: 5px; background:#4682B4; width: 50px;}
+.z-movie #right-column #rat-container #movie-count-rat{  text-align: center; color: #326E9C; font-size: 100%; padding: 6px 5px; float: left; margin-left: 8px; font-weight: bold; border: 1px solid #4682B4; background: #fff; width: 50px;}
+.z-movie #right-column #rat-container #movie-count-rat-text{ font-size: 85%; color: #326E9C;}
+.z-movie #right-column #rat-container #movie-rat-image{ margin:0px; padding: 10px 0px; text-align: center;}
+.z-movie #right-column #rat-container #rat-graph{ padding-bottom: 10px;}
+.z-movie #right-column #rat-container #stars{ background-color: #FFFFFF;  border-radius: 10px 10px 10px 10px; padding: 1px 5px; border: 1px solid #CDDCEB}
+.z-movie #right-column #rat-container #review-container{ padding: 0 0 10px 0px;}
+.z-movie #right-column #rat-container #movie-reviews-box{ border: 1px solid #CDDCEB; padding: 3px; background: #fff; color: #326E9C; font-size: 85%; font-weight: bold;}
+.z-movie #right-column #rat-container #movie-reviews-box a{text-decoration: none; color: #326E9C; }
+.z-movie #right-column #rat-container #movie-reviews-box a:hover{ text-decoration: underline;}
